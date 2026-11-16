@@ -8,6 +8,6 @@ h2 {
  
 p {
     border: thin green solid; /* 段落に緑色の細い実線の枠を付ける */
-    margin: 1em 4em; /* 枠の外側の余白を、上下1em・左右4emにする */
+    margin: 1em 1em; /* 枠の外側の余白を、上下1em・左右4emにする */
     padding: 0.5em; /* 枠の内側の余白を、上下左右0.5emにする */
 }

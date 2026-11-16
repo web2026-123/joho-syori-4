@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <title>図書館からのお知らせ</title>
+  </head>
+  <body>
+    <h1>図書館からのお知らせ</h1>
+    <p>図書館は9時から18時まで利用できます。</p>
+  </body>
+</html>
